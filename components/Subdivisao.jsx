@@ -1,4 +1,4 @@
-//importando o CSS do componente
+//importando o CSS do componente.
 import styles from '../styles/Subdivisao.module.css';
 export default function Subdivisao(props) {
   return (
