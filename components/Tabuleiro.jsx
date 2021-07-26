@@ -1,5 +1,5 @@
 import Linha from './Linha';
-//fix
+//fix the bug
 export default function Tabuleiro() {
   return (
     <div>
